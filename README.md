@@ -2,7 +2,7 @@
 - 👀 I’m interested in Designing  
 - 🌱 I’m currently learning VFX And 3D
 - 💞️ I’m looking to collaborate on anyone with Blender Knoledge 
-- 📫 How to reach me Insta
+- 📫 How to reach me Instagram @arsalan_7811
 
 <!---
 arsalan781/arsalan781 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
